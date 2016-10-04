@@ -67,89 +67,6 @@
 }
 
 
-
-
-#menu-31 .mbr-brand__name {
-  font-size: 16px;
-}
-#menu-31.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
-}
-#menu-31 .mbr-navbar__hamburger {
-  color: #ffffff;
-}
-#menu-31 .mbr-brand__name a {
-  font-size: 24px;
-  font-family: 'Ubuntu', sans-serif;
-}
-#menu-31 .mbr-navbar__items a {
-  font-family: 'Ubuntu', sans-serif;
-}
-#header1-32 P {
-  font-size: 19px;
-  font-family: 'Ubuntu', sans-serif;
-}
-#header1-32 H1 {
-  font-family: 'Ubuntu', sans-serif;
-}
-#msg-box3-33 .mbr-header .mbr-header__text {
-  text-align: center;
-}
-#msg-box3-33 .mbr-header .mbr-header__subtext {
-  text-align: center;
-}
-
-
-#page8-dropdown-menu-0 .hide-buttons [data-button] {
-  display: none !important;
-}
-#page8-dropdown-menu-0 .navbar-brand a {
-  font-size: 20px;
-}
-#page8-dropdown-menu-0 .nav .link,
-#page8-dropdown-menu-0 .dropdown-item {
-  font-size: 1em;
-  color: #ffffff;
-}
-#page8-dropdown-menu-0 .navbar,
-#page8-dropdown-menu-0 .dropdown-menu {
-  background: #cccccc;
-}
-#page8-dropdown-menu-0 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
-#page8-dropdown-menu-0 .dropdown-menu a:hover,
-#page8-dropdown-menu-0 .dropdown-menu a:focus {
-  background: #c2c2c2;
-}
-#page8-dropdown-menu-0 .navbar-toggler {
-  color: #ffffff;
-}
-#header1-1 P {
-  font-size: 19px;
-  font-family: 'Ubuntu', sans-serif;
-}
-#header1-1 H1 {
-  font-family: 'Ubuntu', sans-serif;
-}
-#content5-4 .mbr-header .mbr-header__text {
-  text-align: center;
-  color: #fff;
-}
-#content5-4 .mbr-header .mbr-header__subtext {
-  text-align: center;
-  color: #fff;
-}
-#content5-4 .mbr-article {
-  color: #fff;
-}
-#content5-4 .mbr-article P {
-  font-size: 15px;
-}
-#features1-5 P {
-  font-size: 15px;
-  text-align: center;
-}
-
-
 #page8-dropdown-menu-0 .hide-buttons [data-button] {
   display: none !important;
 }
@@ -355,5 +272,88 @@ P {
   text-align: center;
 }
 #msg-box3-49 .mbr-article P {
+  text-align: center;
+}
+
+
+
+
+#menu-31 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-31.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-31 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-31 .mbr-brand__name a {
+  font-size: 24px;
+  font-family: 'Ubuntu', sans-serif;
+}
+#menu-31 .mbr-navbar__items a {
+  font-family: 'Ubuntu', sans-serif;
+}
+#header1-32 P {
+  font-size: 19px;
+  font-family: 'Ubuntu', sans-serif;
+}
+#header1-32 H1 {
+  font-family: 'Ubuntu', sans-serif;
+}
+#msg-box3-33 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-33 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+
+
+#page8-dropdown-menu-0 .hide-buttons [data-button] {
+  display: none !important;
+}
+#page8-dropdown-menu-0 .navbar-brand a {
+  font-size: 20px;
+}
+#page8-dropdown-menu-0 .nav .link,
+#page8-dropdown-menu-0 .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#page8-dropdown-menu-0 .navbar,
+#page8-dropdown-menu-0 .dropdown-menu {
+  background: #cccccc;
+}
+#page8-dropdown-menu-0 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#page8-dropdown-menu-0 .dropdown-menu a:hover,
+#page8-dropdown-menu-0 .dropdown-menu a:focus {
+  background: #c2c2c2;
+}
+#page8-dropdown-menu-0 .navbar-toggler {
+  color: #ffffff;
+}
+#header1-1 P {
+  font-size: 19px;
+  font-family: 'Ubuntu', sans-serif;
+}
+#header1-1 H1 {
+  font-family: 'Ubuntu', sans-serif;
+}
+#content5-4 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-4 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-4 .mbr-article {
+  color: #fff;
+}
+#content5-4 .mbr-article P {
+  font-size: 15px;
+}
+#features1-5 P {
+  font-size: 15px;
   text-align: center;
 }
